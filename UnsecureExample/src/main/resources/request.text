@@ -1,0 +1,3 @@
+GET localhost:8082/user
+Authorization: Basic sandi sandi123
+Content-Type: application/json
